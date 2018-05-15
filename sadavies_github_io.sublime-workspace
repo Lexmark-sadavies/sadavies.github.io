@@ -1,0 +1,222 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<body>\n<h1>Hello World</h1>\n<p>I'm hosted with GitHub Pages.</p>\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 103,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sadavies/Documents/GitHub/Hacking/file3.txt",
+		"/Users/sadavies/Documents/GitHub/Hacking/sometext_2.txt",
+		"/Users/sadavies/Documents/GitHub/Hacking/sometext.txt",
+		"/Users/sadavies/dev/LXK-Framework/documentation/docs/index.html",
+		"/Users/sadavies/Dropbox (Lexmark Web)/Team Space/Projects/Lexmark/Web Pages/Supplies/Supplies_Finder_Experience/SuppliesFinder_html/Lexmark_ Printers, Ink & Toner, Printer Supplies | Lexmark United States.html",
+		"/Users/sadavies/dev/LXK-Framework/documentation/docs/training/nested-styles.html",
+		"/Users/sadavies/dev/LXK-Framework/lxk_framework/sass/training/_nested-styles.scss",
+		"/Users/sadavies/dev/LXK-Framework/lxk_framework/stylesheets/training.css",
+		"/Users/sadavies/dev/LXK-Framework/lxk_framework/sass/ie.scss",
+		"/Users/sadavies/dev/LXK-Framework/documentation/docs/training/boilerplate.html",
+		"/Users/sadavies/dev/LXK-Framework/lxk_framework/sass/training.scss",
+		"/Users/sadavies/dev/LXK-Framework/lxk_framework/sass/screen.scss",
+		"/Users/sadavies/dev/LXK-Framework/lxk_framework/stylesheets/screen.css",
+		"/Users/sadavies/dev/LXK-Framework/lxk_framework/sass/core/_base.scss",
+		"/Users/sadavies/dev/LXK-Framework/documentation/docs/_includes/color/background.html",
+		"/Users/sadavies/Documents/LXK-Framework/LXK-Framework/README.md",
+		"/Users/sadavies/Documents/LXK Code Template/blank-template.html",
+		"/Users/sadavies/Documents/LXK Code Template/SuppliesFinder-template.html",
+		"/Users/sadavies/Documents/SuppliesFinder/Lexmark_ Printers, Ink & Toner, Printer Supplies | Lexmark United States.html",
+		"/Users/sadavies/Documents/SuppliesFinder/Lexmark_ Printers, Ink & Toner, Printer Supplies | Lexmark United States_files/sidenav.html",
+		"/Users/sadavies/Documents/LXK Code Template/supplies_finder.html",
+		"/Users/sadavies/Documents/LXK_Empty_Cart/empty_cart_v01.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sadavies_github_io.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
